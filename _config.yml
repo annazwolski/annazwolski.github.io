@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Identifying High Streets
 description: Mapping the location of high streets in West Yorkshire
+layout: default
