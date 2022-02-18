@@ -1,5 +1,5 @@
-## High street Interactive Map
+## Energy Efficiency Interactive Map
 
-An interactive map to explore the locations of high streets and retail shops in West Yorkshire
+An interactive map to explore the energy efficiency ratings for properties with certificates in Newcastle
 
-<iframe src="interactive_clust.html" height="400" width="600"></iframe>
+<iframe src="Energy_efficency.html" height="400" width="600"></iframe>
